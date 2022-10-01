@@ -1,0 +1,7 @@
+# This directory is for future component files.
+# Delete this .gitignore file if you have added component files, so that git can track them
+
+# For now ignore everything in this directory
+*
+# Except this file
+!.gitignore
